@@ -1,0 +1,7 @@
+{
+  "name": "智慧試題卷編輯與答案重排器 (Docx Exam Editor)",
+  "description": "支援 Word (.docx) 試題卷讀取、答案選項隨意對調、預設亂數平均分配(ABCDE)、防作弊多版本(A/B卷)，並 100% 完美保留原檔格式、字體與排版自動匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
